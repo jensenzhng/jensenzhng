@@ -4,7 +4,5 @@
 
 I'm 16 and interested in pursuing full-stack development with React and NodeJS.
 
-<a href="https://discord.com/users/611012357425987615">
-  <img src="https://lanyard-profile-readme.vercel.app/api/611012357425987615?hideTimestamp=true&idleMessage=idling..." align="left" />
-</a>
+![jensenzhng's Github Stats](https://github-readme-stats.vercel.app/api?username=jensenzhng&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 
