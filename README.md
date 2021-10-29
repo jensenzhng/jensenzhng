@@ -8,12 +8,12 @@ I'm 16 and interested in pursuing full-stack development with React and NodeJS.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2021 - 27 October, 2021
+Week: 22 October, 2021 - 28 October, 2021
 
-JavaScript   4 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.27 % 
-JSX          3 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 % 
-CSS          2 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-HTML         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript   3 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   45.83 % 
+CSS          1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.89 % 
+JSX          1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+HTML         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
