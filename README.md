@@ -11,13 +11,13 @@ I'm 16 and interested in pursuing full-stack development with React and NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 May 2022 - To: 06 June 2022
+From: 31 May 2022 - To: 07 June 2022
 
-JavaScript   14 hrs 54 mins  ████████████████████▒░░░░   81.15 %
-CSS          3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   12 hrs 47 mins  ███████████████████▓░░░░░   79.25 %
+CSS          3 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
