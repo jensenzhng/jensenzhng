@@ -11,11 +11,11 @@ I'm 16 and interested in pursuing full-stack development with React and NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
+From: 22 November 2022 - To: 29 November 2022
 
-Java         5 hrs 16 mins   █████████████████████▒░░░   85.10 %
-Python       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-JavaScript   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Java         3 hrs 55 mins   ████████████████████▒░░░░   80.98 %
+Python       32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JavaScript   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
 ```
 
 <!--END_SECTION:waka-->
