@@ -11,9 +11,9 @@ I'm 16 and interested in pursuing full-stack development with React and NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Java   1 hr 2 mins     █████████████████████████   100.00 %
+Java   59 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
