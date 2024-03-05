@@ -11,13 +11,13 @@ I'm 16 and interested in pursuing full-stack development with React and NodeJS.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-JavaScript                 1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-Docker                     1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-Bash                       51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Java                       45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Nginx configuration file   42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Java                       1 hr 8 mins     ████████░░░░░░░░░░░░░░░░░   31.90 %
+Nginx configuration file   42 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+YAML                       35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Docker                     24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Bash                       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
