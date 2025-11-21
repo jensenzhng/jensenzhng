@@ -11,11 +11,10 @@ I'm 18 and interested in pursuing full-stack development with React and NodeJS.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Unity3D Asset   50 mins         ████████████████████▓░░░░   82.15 %
-Python          10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python     46 mins         ██████████████████████░░░   87.73 %
+Markdown   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
 ```
 
 <!--END_SECTION:waka-->
